@@ -6,8 +6,11 @@ More coming soon!
 
 ## Setup
 
-    npm install
+    npm install chromedriver //you may need to remove the old version and install latest
+    npm install //to download all dependencies
+    
 
 ## Run tests
 
     npm test
+    npm run test:browserstack
